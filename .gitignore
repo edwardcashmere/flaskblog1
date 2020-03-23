@@ -1,0 +1,7 @@
+/_pycache_/
+/.gitignore/
+/blog/_pycache_/
+/blog/env/Lib/
+/blog/main/_pycache_/
+/blog/posts/_pycache_/
+/blog/users/_pycache_/
